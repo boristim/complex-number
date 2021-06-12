@@ -1,7 +1,9 @@
 <?php
 
-use ComplexNumber\ComplexNumber;
 require_once 'vendor/autoload.php';
+
+use ComplexNumber\ComplexNumber;
+
 
 $n1 = new ComplexNumber(4, 4);
 $n2 = new ComplexNumber(2, 2);
