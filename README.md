@@ -1,4 +1,4 @@
-require: php 7.2+
+require: php 7.4+
 
 Usage: 
 
