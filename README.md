@@ -1,7 +1,7 @@
-php 7.4+\8.0
+require: php 7.2+
 
 Usage: 
 
 _$php composer.phar install_
 
-_$php vendor\bin\phpunit test/ComplexNumberTest.php_
+_$php vendor\bin\phpunit tests/ComplexNumberTest.php_
